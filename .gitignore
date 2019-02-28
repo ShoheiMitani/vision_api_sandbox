@@ -3,3 +3,6 @@ api_key
 
 # jupyter notebook
 .ipynb_checkpoints/*
+
+# user
+.vscode
